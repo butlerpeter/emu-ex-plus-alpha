@@ -8,6 +8,8 @@ makefilesToRun='
 	src/minizip/android-armv6.mk
 	
 	src/boost/android-armv6.mk
+
+        src/libnfs/android-armv6.mk
 '
 
 source runMakefiles.sh
